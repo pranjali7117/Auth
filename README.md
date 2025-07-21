@@ -31,7 +31,7 @@ Showcases secure user flows, backend best practices, and a beautiful, interactiv
 
 ## ✨ Demo
 
-**Live Demo:** [your-deployed-url-here](https://your-demo-url.com)
+**Live Demo:** (https://your-demo-url.com)
 
 ---
 
